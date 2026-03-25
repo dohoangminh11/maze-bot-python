@@ -3,7 +3,7 @@ import turtle as tt
 """
 -----------------------------------------------------------------------------
 i11_Nunu_DoNguyen_project.py: Project Report "MAZE EXPLORATION WITH TURTLE", minINT
-
+la
 Nunu Daniel <Daniel.Nunu@etu.univ-grenoble-alpes.fr>
 Do Nguyen Hoang Minh <Hoang-Minh.Do-Nguyen@etu.univ-grenoble-alpes.fr>
 -----------------------------------------------------------------------------
